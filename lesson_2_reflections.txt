@@ -1,0 +1,1 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers? The working directory is where all files are held whether or not they are added to staging area or committed. Staging area is where the files are added to be committed. The repository is where all the committed files are held
