@@ -1,1 +1,1 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all your work local? Maybe, when you're away from your local machine, you can add changes without having to use your local machine. 
